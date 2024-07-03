@@ -1,0 +1,2 @@
+WORKER_ID=sample_worker_id
+WORKER_CODE=sample_worker_code
