@@ -62,17 +62,6 @@ This repository contains scripts to manage multiple Kuzco worker instances using
 
 - There's a known issue where even if you select a script like `tmux12.sh`, it may only spin up 9 Kuzco instances. The reason for this is currently unclear and under investigation.
 
-## Generating New Scripts
-
-If you need to generate new scripts or modify the existing ones:
-
-1. Edit the `generate_tmux_scripts.sh` file as needed.
-2. Run the script:
-   ```
-   ./generate_tmux_scripts.sh
-   ```
-3. This will create new `tmux5.sh` through `tmux15.sh` scripts.
-
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or encounter any problems.
