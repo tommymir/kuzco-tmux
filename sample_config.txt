@@ -1,2 +1,2 @@
-WORKER_ID=sample_worker_id
-WORKER_CODE=sample_worker_code
+WORKER_ID=bCChlcLR03MRZNOmt_xn-
+WORKER_CODE=e3cfa94f-5ac0-4f35-8ea0-b2037adf8b3a
